@@ -30,6 +30,9 @@ Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search
 Download and unzip the files from this [link](https://www.dropbox.com/s/ar9cupb18hv96gj/retro_data.zip?dl=0), 
 and put all the folders (```dataset/```, ```one_step_model/``` and ```saved_models/```) under the ```retro_star``` directory.
 
+> You can find the full routes in the following links: [train](https://www.dropbox.com/scl/fi/43yw0br07cvdnw9yi1f29/routes_train.pkl?rlkey=zoi85hkd7z7walnd9p5jj0pou&e=1&dl=0),
+[val](https://www.dropbox.com/scl/fi/2ha93k1wpqs3uylnda9zx/routes_val.pkl?rlkey=7zgiz6zeug9351irxssultapl&e=1&dl=0), [test](https://www.dropbox.com/scl/fi/9pc9hdk5y5vl4gvnua508/routes_test.pkl?rlkey=ib9d8u4wgxz6kwm7cdbt8weq9&e=1&dl=0)
+
 #### 3. Install Retro* lib
 
 Install the retrosynthetic planning library with the following commands.
